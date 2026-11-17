@@ -14,7 +14,7 @@ public class DBConnection {
         try {
             String url = "jdbc:mysql://localhost:3306/student_db";
             String username = "root";
-            String password = "200526";
+            String password = "123123";
 
             con = DriverManager.getConnection(
                 url, username, password
